@@ -20,6 +20,6 @@ This is a simple Todo List application that allows you to keep track of your dai
 - To highlight all tasks as completed, you can click on the down arrow to the right of the input.
 
 
-In this task I used React, Typescript, HTML, SCSS, DOM, API request, Fetch etc.
+#In this task I used React, Typescript, HTML, SCSS, DOM, API request, Fetch etc.
 
 [DEMO LINK](https://illia-kyselov.github.io/todoApp/)
