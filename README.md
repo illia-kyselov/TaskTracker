@@ -29,4 +29,4 @@ This is a simple Todo List application that allows you to keep track of your dai
 - Fetch. 
 - etc.
 
-# [DEMO LINK](https://illia-kyselov.github.io/todoApp/)
+# [DEMO LINK](https://illia-kyselov.github.io/TaskTracker/)
